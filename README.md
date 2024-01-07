@@ -12,7 +12,7 @@ A showcase of the test artifacts from my QA journey, featuring test plans, bug r
 
 Each category of documents is organized into its own directory:
 
-- `test-plans/`
+- `test-plan/`
 - `bug-reports/`
 - `test-cases/`
 - `test-reports/`
