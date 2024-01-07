@@ -3,7 +3,7 @@ A showcase of the test artifacts from my QA journey, featuring test plans, bug r
 
 ## What's Inside
 
-- **Test Plans**: Detailed documents outlining testing strategies and objectives.
+- **Test Plan**: Detailed document outlining testing strategies and objectives.
 - **Bug Reports**: Samples of bug reports that effectively communicate issues and facilitate quick resolution.
 - **Test Cases**: A variety of test cases demonstrating my approach to different testing scenarios.
 - **Test Reports**: Summaries of testing outcomes, providing insights and value to development teams.
