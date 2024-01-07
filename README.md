@@ -4,18 +4,18 @@ A showcase of the test artifacts from my QA journey, featuring test plans, bug r
 ## What's Inside
 
 - **Test Plan**: Detailed document outlining testing strategies and objectives.
-- **Bug Reports**: Samples of bug reports that effectively communicate issues and facilitate quick resolution.
+- **Bug Report**: Sample of bug report that effectively communicate issues and facilitate quick resolution.
 - **Test Cases**: A variety of test cases demonstrating my approach to different testing scenarios.
-- **Test Reports**: Summaries of testing outcomes, providing insights and value to development teams.
+- **Test Report**: Summary of testing outcomes, providing insights and value to development teams.
 
 ## How to Navigate
 
 Each category of documents is organized into its own directory:
 
 - `test-plan/`
-- `bug-reports/`
+- `bug-report/`
 - `test-cases/`
-- `test-reports/`
+- `test-report/`
 
 ## Using This Repository
 
